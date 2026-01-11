@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(MyLib LANGUAGES C CXX)
+project(SortingAlgorithmVisualizer LANGUAGES C CXX)
 
 # Add the Debug Options
 option(DEBUG "Enable debug features and tools" OFF)
